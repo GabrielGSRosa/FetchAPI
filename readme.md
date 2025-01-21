@@ -15,8 +15,9 @@ Node.js e npm (ou yarn) instalados.
 
 Clone o repositório:
 
-git clone https://seu-repositorio.git
-Instale as dependências:
+git clone https://github.com/GabrielGSRosa/FetchAPI.git
+
+**Instale as dependências**:
 
 cd seu-projeto
 npm install
