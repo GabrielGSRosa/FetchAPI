@@ -5,6 +5,7 @@ Este projeto demonstra a utilização da Fetch API em uma aplicação React para
 **Tecnologias Utilizadas**:
 
 React: Framework JavaScript para construção de interfaces de usuário.
+
 Fetch API: API nativa do JavaScript para buscar dados de uma API.
 
 **Pré-requisitos**:
@@ -28,4 +29,5 @@ npm start
 **Estrutura do Projeto**:
 
 src: Contém os arquivos de código-fonte do projeto.
+
 public: Contém arquivos estáticos como o index.html.
